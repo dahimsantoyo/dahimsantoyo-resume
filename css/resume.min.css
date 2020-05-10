@@ -41,7 +41,7 @@
 .wave.-two {
   animation: drift 7000ms infinite linear;
   opacity: .1;
-  background: #448aff;
+  background: #000000;
 }
 
 .box:after {
@@ -127,7 +127,7 @@ p.lead {
     text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-    outline-color: #83b9ff;
+    outline-color: #83b9fe;
 }
 @media (min-width:992px) {
     #sideNav {
